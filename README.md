@@ -5,9 +5,13 @@
 ## ファイル構成
 
 NumberGuessingGame/
+
 ├── main.py
+
 ├── game_logic.py
+
 ├── user_input.py
+
 └── number_generator.py
 
 
